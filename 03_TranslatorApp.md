@@ -13,7 +13,7 @@
 
 1. [**Text Analytics のアクセスキー取得ページ**](https://azure.microsoft.com/ja-jp/try/cognitive-services/my-apis/?api=text-analytics) を開き、**追加** をクリックします。
 
-    <img src="Assets/Images/az_select_translator.png" width="420px" />
+    <img src="Assets/Images/textanalytics_getkey.png" width="420px" />
 
 1. 取得した Endpoint および Key1 をメモ帳などに貼り付けておきます。
 
