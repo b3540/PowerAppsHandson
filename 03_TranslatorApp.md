@@ -5,7 +5,7 @@
 <img src="Assets/Images/transapp_designpage.png" width="420px" />
 
 [別のハンズオン（Custom vision を利用する PowerApps アプリ）](https://github.com/seosoft/CognitiveWorkshop/blob/master/04_PowerApps.md) では、オンラインのサービス (Custom Vision) に接続するアプリケーションを開発しました。  
-ここでは、連続して複数のサービスを利用する PowerApps アプリを開発してみます。
+ここでは、連続して複数のサービスを利用して、かつ画面がもう少し複雑な PowerApps アプリを開発してみます。
 
 ---
 
