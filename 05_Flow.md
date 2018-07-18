@@ -5,7 +5,7 @@ PowerApps のライセンスを持っていれば Flow も使えます。
 
 <img src="Assets/Images/05/flow_toppage.png" width="420px" />
 
-あれをして、これをして」などの **処理の流れ** を、処理ブロックを繋げることで視覚的に開発することができます。
+「あれをして、これをして」などの **処理の流れ** を、処理ブロックを繋げることで視覚的に開発することができます。
 
 <img src="Assets/Images/05/flow_multistep_flow_example.png" width="420px" />
 
