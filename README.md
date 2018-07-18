@@ -8,7 +8,7 @@
 2. [PowerApps で画像解析アプリを作成する (Custom Vision 利用)](https://github.com/seosoft/CognitiveWorkshop/blob/master/04_PowerApps.md) ※別のハンズオン資料を参照
 3. [Translator Text と Text Analytics を使って翻訳アプリを作成する](03_TranslatorApp.md)
 4. [Common Data Service でデータをクラウドに安全に保存する](04_CdsApp.md)
-5. [Flow で PowerApps の機能を拡張する]（※準備中）
+5. [Flow で PowerApps の機能を拡張する](05_Flow.md)
 6. PowerApps アプリを Microsoft Teams で利用する（※準備中）
 7. SharePoint のカスタムリストを PowerApps で操作する（※準備中）
 
